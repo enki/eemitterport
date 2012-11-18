@@ -1,0 +1,25 @@
+{
+  "name": "eemitterport",
+  "version": "0.0.1",
+  "description": "Wrap nodejs eventemitter to work both on node and in browser",
+  "main": "eemitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enki/eemitterport.git"
+  },
+  "keywords": [
+    "eventemitter",
+    "eemitter",
+    "node",
+    "nodejs",
+    "browser",
+    "wrapper",
+    "compatibility"
+  ],
+  "author": "NodeJS",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
